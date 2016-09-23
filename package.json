@@ -1,0 +1,23 @@
+{
+  "name": "blogdevtest",
+  "version": "1.0.0",
+  "description": "Calculate total number of posts made by all users in the blog",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n2d8/BlogDevTest.git"
+  },
+  "author": "robin or",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n2d8/BlogDevTest/issues"
+  },
+  "homepage": "https://github.com/n2d8/BlogDevTest#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
