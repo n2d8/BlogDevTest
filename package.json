@@ -4,7 +4,7 @@
   "description": "Calculate total number of posts made by all users in the blog",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
