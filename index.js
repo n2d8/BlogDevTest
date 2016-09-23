@@ -4,5 +4,5 @@ let post = require('./post');
 user.getUsers()
   .then(post.countPosts)
   .then(function(totalPosts) {
-    console.log("Total number of poosts: " + totalPosts);
+    console.log("Total number of posts: " + totalPosts);
   });
